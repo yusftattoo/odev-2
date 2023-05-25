@@ -52,25 +52,24 @@
             <li> Ivan Ayvazovski</li>
         </ul>
     </li>
-  <p> <strong>Diziler</strong> </p>
+    <p> <strong>Diziler</strong> </p>
     <li> 
-            <ul>
-                <li>Ezel</li>
-                <li>Breaking Bad</li>
-                <li>American Gods</li>
-                <li>Dark</li>
-                
-            </ul>
+        <ul>
+            <li>Ezel</li>
+            <li>Breaking Bad</li>
+            <li>American Gods</li>
+            <li>Dark</li>                
+        </ul>
     </li>
-   
 </ol>
 <h3>Sevdigim Anime </h3>
     <li><strong> One Piece </strong></li>
 <p> Eiichiro Oda tarafindan yazilan ve cizilen bir Japon manga serisidir.
-    1997'den beri seri gunumuzde devam etmekte ve cocuklugum da izlemeye basladigim ilk anime, 2000 li yıllardan bu yana izlemeye devam ediyorum, bunun yaninda bir cok anime izledim.
+    1997'den beri seri gunumuzde devam etmekte ve cocuklugum da izlemeye basladigim ilk anime, 
+    2000 li yıllardan bu yana izlemeye devam ediyorum, bunun yaninda bir cok anime izledim.
  </p>
 <img src="https://i.pinimg.com/564x/6f/66/30/6f66309d4fb6946f515ab8a2c55733c5.jpg"
-    alt="Wanted Monkey D.Luff"  
+    alt="Monkey D.Luff"  
     width="200" height="320" >
     <a href="https://i.pinimg.com/564x/6f/66/30/6f66309d4fb6946f515ab8a2c55733c5.jpg" 
     target="_blank"> 
@@ -79,12 +78,15 @@
 
 <h3>En Sevdigim Kitap</h3>
  
-    <p>  <strong> Vadideki Zambak </strong> </p>
-    <p>Vadideki Zambak 1836 yilinda yayimlandi. Roman, genclikten yetiskinlige uzanan yolu, evli bir kadına duydugu askla kateden Felix’in hikayesini anlatiyor.</p>
-        <a href="https://www.goodreads.com/book/show/8564041-vadideki-zambak" target="_blank"> 
-    Goodreads 
-        </a>
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478609251i/8564041._UY420_SS420_.jpg"
-     alt="">
-
+    <li><strong> Vadideki Zambak </strong></li>
+<p> Vadideki Zambak 1836 yilinda yayimlandi. Roman, genclikten yetiskinlige uzanan yolu,
+        evli bir kadına duydugu askla kateden Felix’in hikayesini anlatiyor.
     </p>
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478609251i/8564041.jpg"  alt="Kitap Gorseli"> 
+        <a href="https://www.goodreads.com/book/show/8564041-vadideki-zambak" target="_blank"> 
+    Goodreads</a>
+    
+    
+
+</body>
+</html>
