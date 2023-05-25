@@ -79,7 +79,7 @@
 
 <h3>En Sevdigim Kitap</h3>
  
-    <li> <strong> Vadideki Zambak </strong></li>
+    <p>  <strong> Vadideki Zambak </strong> </p>
     <p>Vadideki Zambak 1836 yilinda yayimlandi. Roman, genclikten yetiskinlige uzanan yolu, evli bir kadına duydugu askla kateden Felix’in hikayesini anlatiyor.</p>
         <a href="https://www.goodreads.com/book/show/8564041-vadideki-zambak" target="_blank"> 
     Goodreads 
